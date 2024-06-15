@@ -14,7 +14,7 @@ setup(
     description="Eine Aufgabenerfassungsapplikation zur Verwaltung von Aufgaben",  # Kurzbeschreibung des Pakets
     long_description=long_description,  # Langbeschreibung des Pakets aus der README-Datei
     long_description_content_type="text/markdown",  # Der Typ der Langbeschreibung (in diesem Fall Markdown)
-    url="https://github.com/IhrGitHubRepo",  # URL zu Ihrem GitHub-Repository oder Ihrer Projektseite
+    url="https://github.com/SoICraft-code/Aufgabenerfassungsapplikation.git",  # URL zu Ihrem GitHub-Repository oder Ihrer Projektseite
     packages=find_packages(),  # Automatisches Finden aller Pakete und Unterpakete
     classifiers=[
         "Programming Language :: Python :: 3",
