@@ -9,7 +9,4 @@ Eine Aufgabenerfassungsapplikation zur Verwaltung von Aufgaben.
 - Aufgaben aktualisieren: Bearbeiten bestehender Aufgaben.
 - Aufgaben löschen: Entfernen von Aufgaben aus der Liste.
 
-## Installation
 
-```bash
-pip install .
